@@ -1,0 +1,19 @@
+name: bouncy_press
+description: A tactile, high-performance spring press and bounce micro-interaction widget for Flutter with haptics and zero dependencies.
+version: 1.0.0
+homepage: https://github.com/Codes-of-NazmuL/bouncy_press
+repository: https://github.com/Codes-of-NazmuL/bouncy_press
+issue_tracker: https://github.com/Codes-of-NazmuL/bouncy_press/issues
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.10.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
