@@ -106,7 +106,7 @@ BouncyPress(
 Created with ❤️ by **Nazmul Islam**
 
 - **GitHub:** [@Codes-of-NazmuL](https://github.com/Codes-of-NazmuL)
-- **Organization:** Softvence
+
 
 Feel free to star ⭐️ the repository and contribute!
 
